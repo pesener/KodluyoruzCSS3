@@ -18,7 +18,55 @@ input{
     border: 1px solid black;
 }
 
+
 .buttons{
     margin-top: 20px;
    
+}
+
+.voice{
+    height:20px;
+    position:relative;
+    top:5px;
+    right:30px;
+}
+.ul1{
+    position: fixed;
+    justify-content: end    ;
+    bottom:0;
+    list-style: none;
+}
+
+.l1{
+    margin-right: 10px;
+}
+.l2{
+    margin-right: 10px;
+}
+.l3{
+    margin-right: 10px;
+}
+
+.ul2{
+    bottom:0;
+    position: fixed;
+    margin-left: 1100px;
+}
+.mainDots{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.dots{
+    height:20px;
+   margin-bottom: 10px;
+  
+    right:30px;
+}
+
+.img1{
+    margin-bottom: 10px;
 }
